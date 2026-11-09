@@ -121,10 +121,10 @@
   dependencies:
     nan "^2.16.0"
 
-"@tabby-gang/windows-blurbehind@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@tabby-gang/windows-blurbehind/-/windows-blurbehind-3.0.0.tgz#48d409c2eb14a12c867b70de5ee4d6769ef45e8f"
-  integrity sha512-ah6eJcoQZWOZfu9sd2pWlOJmfl1v+2EZQMeIp7MWvg+/16WS16UFNdnOtlV6AUiABHfZo2QKfCNUEuorCM+Q2A==
+"@tabby-gang/windows-blurbehind@^3.1.0":
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/@tabby-gang/windows-blurbehind/-/windows-blurbehind-3.1.0.tgz#bd1462f2a970d195e277d48cceb8b2c0a20f09bd"
+  integrity sha512-wTvyNrBDNxD4yq1bXv7lvXRQujJYRQ2Ke3LJyE9yzY9e/L9/fHVIuprIgAMiLsnW+BKPERq0k27iC38WnxUBZQ==
   dependencies:
     "@types/node" "^10.12.18"
 
