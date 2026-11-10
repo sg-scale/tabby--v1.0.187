@@ -8552,10 +8552,10 @@ timed-out@^4.0.0:
   resolved "https://registry.npmjs.org/timed-out/-/timed-out-4.0.1.tgz"
   integrity sha1-8y6srFoXW+ol1/q1Zas+2HQe9W8=
 
-tinyqueue@^2.0.3:
-  version "2.0.3"
-  resolved "https://registry.yarnpkg.com/tinyqueue/-/tinyqueue-2.0.3.tgz#64d8492ebf39e7801d7bd34062e29b45b2035f08"
-  integrity sha512-ppJZNDuKGgxzkHihX8v9v9G5f+18gzaTfrukGrq6ueg0lmH4nqVnA2IPG0AEH3jKEk2GRJCUhDoqpoiw3PHLBA==
+tinyqueue@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/tinyqueue/-/tinyqueue-3.0.0.tgz#101ea761ccc81f979e29200929e78f1556e3661e"
+  integrity sha512-gRa9gwYU3ECmQYv3lslts5hxuIa90veaEcxDYuu3QGOIAEM2mOZkVHp48ANJuu1CURtRdHKUBY5Lm1tHV+sD4g==
 
 tmp-promise@^2.0.1:
   version "2.1.1"
@@ -8946,12 +8946,12 @@ util-extend@^1.0.1:
   resolved "https://registry.npmjs.org/util-extend/-/util-extend-1.0.3.tgz"
   integrity sha1-p8IW0mdUUWljeztu3GypEZ4v+T8=
 
-utils-decorators@^1.10.4:
-  version "1.10.4"
-  resolved "https://registry.yarnpkg.com/utils-decorators/-/utils-decorators-1.10.4.tgz#df3482fdddf127ca6db7ac58e0d3a19c99678bf1"
-  integrity sha512-f/GnLD+TA6DOW53v+3frv8kehx3q9UBtsB47yU2ie8A0rTd0w2fW0FLeYUEEgmqhTk3xHt9uihSish/nD3aQeg==
+utils-decorators@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/utils-decorators/-/utils-decorators-3.0.1.tgz#bca6a7cb88de899ecfaba1d749cced03c279b3b4"
+  integrity sha512-YlhPogYPUMr2sIYCFbpXllIjuIyQIrJ8p3NW9hppSPsqMo1WyGxQcvHyV9vfZ6l8l46hfV/1rOvsl2DOuSgrWg==
   dependencies:
-    tinyqueue "^2.0.3"
+    tinyqueue "^3.0.0"
 
 uuid@^3.0.0, uuid@^3.3.2:
   version "3.4.0"
